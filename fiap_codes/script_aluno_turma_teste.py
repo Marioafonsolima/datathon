@@ -3,7 +3,7 @@ import os
 import pandas as pd
 import json
 
-extracted_folder_path = '.'
+extracted_folder_path = '..'
 extracted_files = os.listdir(extracted_folder_path)
 
 def load_json_to_df(file_path):

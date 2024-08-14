@@ -1,7 +1,7 @@
 import os
 import json
 
-extracted_folder_path = '.'
+extracted_folder_path = '..'
 search_id = 'IdAluno'
 
 extracted_files = os.listdir(extracted_folder_path)

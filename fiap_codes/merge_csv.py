@@ -28,7 +28,7 @@ def main(csv_files, merge_keys, output_folder):
 
 
 if __name__ == "__main__":
-    extracted_folder_path = '.'
+    extracted_folder_path = '..'
     csv_files = [
         # './csv_output/Tabelas/TbAluno/Merge/merged_data.csv',
         # './csv_output/Tabelas/TbDiario/Merge/merged_data.csv',
